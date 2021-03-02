@@ -11,6 +11,6 @@ This is quiz Application demo which shows score after you submit your quiz. Once
  ### Screenshots
 
  #### Home Page
- ![Alt text](/screenshot/Screenshot Home Page.jpg?raw=true "Home Page")
+ <img src="screenshots/Screenshot Home page.jpg>"
 
  
