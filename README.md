@@ -8,5 +8,9 @@ This is quiz Application demo which shows score after you submit your quiz. Once
 * Bootstrap 4.0
 * Jest and React Testing Library for Testing
 
- ### Live Demo
- https://supriti23.github.io/quiz/
+ ### Screenshots
+
+ #### Home Page
+ ![Alt text](/screenshot/Screenshot Home Page.jpg?raw=true "Home Page")
+
+ 
