@@ -1,0 +1,29 @@
+.buttonBasic {
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 15px;
+  font-family: "Bevan";
+}
+
+@mixin hoverChange($color, $percent) {
+  &:hover {
+    background-color: darken($color, $percent);
+  }
+}
+
+$mainButtonColor: rgb(154, 205, 50);
+
+.startQuizButton {
+  @extend .buttonBasic;
+  background-color: $mainButtonColor;
+  width: 50vh;
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 35px;
+  height: 11vh;
+  @include hoverChange($mainButtonColor, 10%);
+}

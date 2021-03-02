@@ -1,0 +1,59 @@
+@import "../HomePage/App.scss";
+
+.modal-body {
+  margin-top: 10vh;
+  margin-left: auto;
+  margin-right: auto;
+  height: 75vh;
+  width: 90%;
+  margin-bottom: auto;
+  background-color: red;
+  opacity: 90%;
+  border-radius: 20px;
+}
+.modal-basic {
+  border-radius: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  color: rgb(7, 7, 10);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.questionShow {
+  @extend .modal-basic;
+  background-color: rgb(156, 245, 252);
+  margin-top: 40px;
+  font-size: large;
+  height: 10vh;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.container {
+  height: 60vh;
+  background-color: white;
+  border-radius: 15px;
+}
+
+.options {
+  @extend .modal-basic;
+  border: white 3px solid;
+  height: 8vh;
+  $optionColor: rgb(29, 235, 224);
+  background-color: $optionColor;
+  text-align: center;
+  vertical-align: middle;
+  @include hoverChange($optionColor, 20%);
+}
+.row {
+  margin-top: 2%;
+}
+.btnStyle{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.btn{
+  @include hoverChange(rgb(243, 243, 88), 20%);
+}

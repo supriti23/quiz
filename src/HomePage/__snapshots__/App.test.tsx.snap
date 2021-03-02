@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Homepage Testing Renders without crashing and displays a button with text 1`] = `
+Array [
+  <div
+    className="row"
+  >
+    <button
+      className="startQuizButton"
+      onClick={[Function]}
+    >
+      Let's Start
+    </button>
+  </div>,
+  <div />,
+]
+`;
