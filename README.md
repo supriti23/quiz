@@ -14,13 +14,13 @@ This is quiz Application demo which shows score after you submit your quiz. Once
 
  ![Alt text](https://github.com/supriti23/quiz/blob/main/screenshots/Screenshot%20Home%20Page.jpg "Home Page")
 
- ![Alt text](https://github.com/supriti23/quiz/blob/main/screenshots/Screenshot%202021-03-03%20at%2012.26.34%20AM.png "Question Demo")
+ ![Alt text](https://github.com/supriti23/quiz/blob/main/screenshots/question.png "Question Demo")
 
- ![Alt text](https://github.com/supriti23/quiz/blob/main/screenshots/Screenshot%202021-03-03%20at%2012.27.31%20AM.png "Selected Answer")
+ ![Alt text](https://github.com/supriti23/quiz/blob/main/screenshots/selected%20answer.jpg "Selected Answer")
 
- ![Alt text](https://github.com/supriti23/quiz/blob/main/screenshots/Screenshot%202021-03-03%20at%2012.27.58%20AM.png "On the last question Submit button appears")
+ ![Alt text](https://github.com/supriti23/quiz/blob/main/screenshots/submit.jpg "On the last question Submit button appears")
 
- ![Alt text](https://github.com/supriti23/quiz/blob/main/screenshots/Screenshot%202021-03-03%20at%2012.28.19%20AM.png "Score appears and you can again start the quiz")
+ ![Alt text](https://github.com/supriti23/quiz/blob/main/screenshots/score.jpg "Score appears and you can again start the quiz")
 
   
 
