@@ -11,6 +11,7 @@ This is quiz Application demo which shows score after you submit your quiz. Once
  ### Screenshots
 
  #### Home Page
+ 
  ![Alt text](https://github.com/supriti23/quiz/blob/main/screenshots/Screenshot%20Home%20Page.jpg "Home Page")
 
  
